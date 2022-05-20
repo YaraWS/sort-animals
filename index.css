@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&family=Permanent+Marker&family=Prompt:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Permanent+Marker&family=Prompt:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Prompt:wght@500&family=Roboto:wght@500&display=swap');
+
+body {
+    padding: 40px;
+    background: #57a77e;
+    background-image: url(./images/animals.svg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    color: #f6f5f7;
+    font-size: 80px;
+    font-family: 'Arvo', serif;
+    margin: 20px;
+}
+
+button {
+    background-color: #df7075;
+    color: whitesmoke;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 10px;
+    border-color: none;
+    border: none;
+}
+
+p {
+    margin: 10px;
+}
+
+#allAnimals {
+    margin: 40px;
+}
+
+#lion-cage {
+    background: #f0808091;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#zebra-cage {
+    background: #f0808094;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#monkey-cage {
+    background: #f0808095;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#snake-cage {
+    background: #f0808095;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#giraffe-cage {
+    background: #f0808095;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+}
